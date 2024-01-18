@@ -36,8 +36,7 @@ Step-5: Model Evalution
 ![image](https://github.com/jamshid-ds/Bank-Marketing-Campaign/assets/117648241/3ed7fb63-4fb1-4117-afce-e366b8c239fb)
 
 <br>
-<br>
-This is the information we can conclude from the table:
+**This is the information we can conclude from the table:**
 <br>
 
 There is a problem with bias in the dataset representing the validations
