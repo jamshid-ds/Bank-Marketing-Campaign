@@ -64,6 +64,21 @@ It is clear from the graph that, Among those admitted, there are more singles
 
 ![image](https://github.com/jamshid-ds/Bank-Marketing-Campaign/assets/117648241/20445025-50c7-4cc5-8ab4-3246fbf6d50a)
 
+# Accuracy results
+<br>
+
+![image](https://github.com/jamshid-ds/Bank-Marketing-Campaign/assets/117648241/b07c6dc2-0ff8-4866-be8b-d7d2d635e3c8)
+<br>
+<br>
+
+**This is the result shown by the model (Gradient Boosting) that performed best against our test set**
+<br>
+<br>
+<br>
+
+**Due to data gaps, our model did not perform very well**
+
+
 
 
 
