@@ -43,4 +43,28 @@ Step-5: Model Evalution
 There is a problem with bias in the dataset representing the validations
 <br>
 Those confirmed are mostly in their 30-32s
+<br>
+<br>
+
+![image](https://github.com/jamshid-ds/Bank-Marketing-Campaign/assets/117648241/5d43e0f0-7d03-4153-b8b1-f15ba3ad6e21)
+
+<br>
+
+It is clear from the graph that, Among those admitted, there are more singles
+<br>
+<br>
+
+**Education status piechart**
+
+![image](https://github.com/jamshid-ds/Bank-Marketing-Campaign/assets/117648241/d3766764-3be3-4d9a-8fe7-89fb5895d389)
+<br>
+<br>
+
+**Piechart showing the difference between accepted and rejected customers**
+
+![image](https://github.com/jamshid-ds/Bank-Marketing-Campaign/assets/117648241/20445025-50c7-4cc5-8ab4-3246fbf6d50a)
+
+
+
+
 
