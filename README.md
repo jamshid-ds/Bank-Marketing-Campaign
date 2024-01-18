@@ -7,7 +7,7 @@ Predicting whether a customer will be eligible for a term deposit using Portugue
 <br>
 <br>
 <br>
-#**First of all, we planned what we had to do**
+# **First of all, we planned what we had to do**
 <br>
 <br>
 <br>
@@ -29,7 +29,7 @@ Step-5: Model Evalution
 <br>
 <br>
 <br>
-#**we got a lot of conclusions with the help of visualization. Let's get to know them**
+# **we got a lot of conclusions with the help of visualization. Let's get to know them**
 <br>
 <br>
 ![image](https://github.com/jamshid-ds/Bank-Marketing-Campaign/assets/117648241/0acd8e95-f7c4-4c34-b345-28e977e335ab)
