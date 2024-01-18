@@ -6,16 +6,22 @@ Predicting whether a customer will be eligible for a term deposit using Portugue
 <br>
 <br>
 <br>
-
+<br>
 **First of all, we planned what we had to do**
 <br>
 <br>
+<br>
+
 Step-1: Data Collecting and Understanding
+<br>
 <br>
 Step-2: Visualisation Part
 <br>
+<br>
 Step-3: Preparing the dataset for Machine Learning
 <br>
+<br>
 Step-4: Machine Learning
+<br>
 <br>
 Step-5: Model Evalution
