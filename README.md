@@ -32,13 +32,15 @@ Step-5: Model Evalution
 # **we got a lot of conclusions with the help of visualization. Let's get to know them**
 <br>
 <br>
-![image](https://github.com/jamshid-ds/Bank-Marketing-Campaign/assets/117648241/0acd8e95-f7c4-4c34-b345-28e977e335ab)
+
+![image](https://github.com/jamshid-ds/Bank-Marketing-Campaign/assets/117648241/3ed7fb63-4fb1-4117-afce-e366b8c239fb)
+
 <br>
 <br>
 This is the information we can conclude from the table:
 <br>
 
-The main customers are between 30-35 years old
+There is a problem with bias in the dataset representing the validations
 <br>
-The minimum age of the customers started from 18 years old on average
+Those confirmed are mostly in their 30-32s
 
